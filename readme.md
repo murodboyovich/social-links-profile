@@ -1,6 +1,6 @@
 Hello
 
-This page was made for the website "frontendmentor.io" to submit a solution named "Social links profile"
+This page was made for the website "https://www.frontendmentor.io" to submit a solution named "Social links profile"
 
 I've just completed a front-end coding challenge from @frontendmentor! 🎉
 
